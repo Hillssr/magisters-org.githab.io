@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Boblic';
+    src: url('boblic.eot');
+    src: url('boblic.eot?#iefix') format('embedded-opentype'),
+         url('boblic.woff') format('woff'),
+         url('boblic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
